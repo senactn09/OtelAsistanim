@@ -1,0 +1,1 @@
+Otel uygulaması için .JSON dosyası eklenmiştir.
