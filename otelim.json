@@ -1,58 +1,58 @@
 [
   {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Bahçe",
-    "otelNumara": "101",
-    "yatakDurum": "Çift Kişilik 1",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/105.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Bahçe",
+    "numara": "101",
+    "yatak": "Çift Kişilik 1",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/105.jpg"
   },
   {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Bahçe",
-    "otelNumara": "201",
-    "yatakDurum": "Tek Kişilik 2",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/106.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Bahçe",
+    "numara": "201",
+    "yatak": "Tek Kişilik 2",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/106.jpg"
   },
   {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Havuz",
-    "otelNumara": "102",
-    "yatakDurum": "Tek Kişilik 1",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/107.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Havuz",
+    "numara": "102",
+    "yatak": "Tek Kişilik 1",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/107.jpg"
   },
    {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Havuz",
-    "otelNumara": "202",
-    "yatakDurum": "Çift Kişilik 1,Tek Kişilik",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/108.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Havuz",
+    "numara": "202",
+    "yatak": "Çift Kişilik 1,Tek Kişilik",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/108.jpg"
   },
   {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Deniz",
-    "otelNumara": "103",
-    "yatakDurum": "Çift Kişilik 1",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/103.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Deniz",
+    "numara": "103",
+    "yatak": "Çift Kişilik 1",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/103.jpg"
   },
    {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Deniz",
-    "otelNumara": "203",
-    "yatakDurum": "Tek Kişilik 3",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/203.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Deniz",
+    "numara": "203",
+    "yatak": "Tek Kişilik 3",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/203.jpg"
   },
   {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Dağ",
-    "otelNumara": "104",
-    "yatakDurum": "Çift Kişilik 1",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/104.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Dağ",
+    "numara": "104",
+    "yatak": "Çift Kişilik 1",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/104.jpg"
   },
    {
-    "otelIsim": "Otel Köşk",
-    "otelBolge": "Dağ",
-    "otelNumara": "204",
-    "yatakDurum": "Tek Kişilik 2",
-    "otelResim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/204.jpg"
+    "otelisim": "Otel Köşk",
+    "bolge": "Dağ",
+    "numara": "204",
+    "yatak": "Tek Kişilik 2",
+    "resim": "https://raw.githubusercontent.com/senactn09/OtelAsistanim/main/204.jpg"
   }
 ]
